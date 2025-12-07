@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "_id": "6933c62fb4b342230426e804",
+      "name": "Men's Cotton T-Shirt",
+      "description": "Comfortable 100% cotton regular fit t-shirt",
+      "price": 799,
+      "stock": 40,
+      "category": "Clothes",
+      "images": [
+        "https://example.com/images/men-tshirt1.jpg"
+      ],
+      "createdAt": "2025-12-06T10:16:32.244Z"
+    },
+    {
+      "_id": "6933c62fb4b342230426e805",
+      "name": "Women's Denim Jacket",
+      "description": "Stylish denim jacket with classic fit",
+      "price": 2499,
+      "stock": 15,
+      "category": "Clothes",
+      "images": [
+        "https://example.com/images/women-denim-jacket.jpg"
+      ],
+      "createdAt": "2025-12-06T10:16:32.245Z"
+    },
+    {
+      "_id": "6933c62fb4b342230426e806",
+      "name": "Kids Hooded Sweatshirt",
+      "description": "Soft fleece hoodie for kids, warm & trendy",
+      "price": 1199,
+      "stock": 30,
+      "category": "Clothes",
+      "images": [
+        "https://example.com/images/kids-hoodie.jpg"
+      ],
+      "createdAt": "2025-12-06T10:16:32.246Z"
+    },
+    {
+      "_id": "6933c62fb4b342230426e807",
+      "name": "Men's Formal Shirt",
+      "description": "Slim-fit formal shirt for office and events",
+      "price": 1299,
+      "stock": 25,
+      "category": "Clothes",
+      "images": [
+        "https://example.com/images/formal-shirt.jpg"
+      ],
+      "createdAt": "2025-12-06T10:16:32.246Z"
+    },
+    {
+      "_id": "6933c62fb4b342230426e808",
+      "name": "Women's Kurti",
+      "description": "Traditional ethnic wear with comfortable fabric",
+      "price": 999,
+      "stock": 35,
+      "category": "Clothes",
+      "images": [
+        "https://example.com/images/women-kurti.jpg"
+      ],
+      "createdAt": "2025-12-06T10:16:32.246Z"
+    }
+  ],
+  "total": 5,
+  "page": 1,
+  "pages": 1
+}
